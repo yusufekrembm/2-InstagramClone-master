@@ -1,5 +1,7 @@
 # 2-InstagramClone-master
-Android Projects Course
+Android Projects Udemy Course 
+ 
+ - This project was made by cloning from the udemy java kotlin course.
 
 - User log-in and sign up
 - Adding comment when you share post
